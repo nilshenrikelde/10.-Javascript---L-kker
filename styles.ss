@@ -1,0 +1,5 @@
+div {
+  position: absolute;
+  top: 30%;
+  left: 40%;
+}
